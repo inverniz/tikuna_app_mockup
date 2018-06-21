@@ -27,10 +27,10 @@
     <string name="text">Texto</string>
     <string name="audio">Audio</string>
     <string name="text_translation">¿Cuàl es la traducción?</string>
-    <string name="text_ex1">Nunca he mirado</string>
-    <string name="text_ex2">Mi mamá aún vive</string>
+    <string name="text_ex1">Hola</string>
+    <string name="text_ex2">Estoy visitando</string>
     <string name="text_ex3">Nunca lo he visto</string>
-    <string name="tikuna_sentence">Oración en Ticuna</string>
+    <string name="tikuna_sentence">Nuxmaxe</string>
     <string name="text_request2">Por favor escribe el texto para cargar.</string>
     <string name="text_request1">Por favor da la traducción en español</string>
     <string name="text_true_translation">Si no, por favor da la traducción correcta:</string>
